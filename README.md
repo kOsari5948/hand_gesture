@@ -6,7 +6,7 @@
 
 - 손 모양을 촬영하여 컴퓨터 기능을 수행하는 원격 리모컨
 
-<img src="./img/main.png" width="500px;">
+<img src="./image/main.png" width="500px;">
 
 ## 👨‍👦 참가자
 
@@ -60,21 +60,21 @@
 
 - 모델 최종 성능
   <br/>
-![](img/test.png)
+![](image/test.png)
 
 ## 📖 사진
 
 <h3>1️⃣분류 제츠쳐 종류</h3>
 
-![](./img/function.png)
+![](./image/function.png)
 
 <h3>2️⃣이미지 전처리 및 이미지 증강</h3>
 
-![](img/datagenerator.png)
+![](image/datagenerator.png)
 
 🖼️ 모델 성능 비교
-![](img/modelDiff.png)
-![](img/lossGraph.png)
+![](image/modelDiff.png)
+![](image/lossGraph.png)
 
 ## 💥 Trouble Shooting
 
